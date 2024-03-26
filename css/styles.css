@@ -58,9 +58,6 @@ ul,ol {
 
 .main-section {
     background: #2E2F42;
-    width: 1440px;
-    height: 600px;
-    flex-shrink: 0;
 }
 
 .main-title {
@@ -74,11 +71,6 @@ ul,ol {
 
 .maint-button {
     cursor: pointer;
-    display: inline-flex;
-    padding: 16px 32px;
-    align-items: flex-start;
-    gap: 10px;
-    border-radius: 4px;
     background: #4D5AE5;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }

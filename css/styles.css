@@ -56,7 +56,40 @@ ul,ol {
     color: #404BBF;
 }
 
+.main-section {
+    background: #2E2F42;
+    width: 1440px;
+    height: 600px;
+    flex-shrink: 0;
+}
 
+.main-title {
+    color: #FFF;
+    text-align: center;
+    font-size: 56px;
+    font-style: normal;
+    line-height: 1.08;
+    letter-spacing: 0,02em;
+}
+
+.maint-button {
+    cursor: pointer;
+    display: inline-flex;
+    padding: 16px 32px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 4px;
+    background: #4D5AE5;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.maint-button-span {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
 
 
 

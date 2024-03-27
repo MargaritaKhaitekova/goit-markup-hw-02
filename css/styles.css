@@ -71,9 +71,6 @@ ul,ol {
 .maint-button {
     cursor: pointer;
     background: #4D5AE5;
-}
-
-.maint-button-span {
     color: #FFF;
     font-size: 16px;
     font-weight: 500;
@@ -81,6 +78,8 @@ ul,ol {
     letter-spacing: 0.04em;
 }
 
-
-
+.maint-button:hover,
+.maint-button:focus {
+    background-color: #404BBF;
+}
 

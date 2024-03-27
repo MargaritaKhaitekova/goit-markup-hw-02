@@ -132,9 +132,19 @@ letter-spacing: 0.02em;
     background-color: #FFFFFF;
 }
 
+.section-our-portfolio {
+    background: #FFFFFF;
+}
 
-
-
+.portfolio {
+    color: #2E2F42;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+}
 
 
 

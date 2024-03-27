@@ -83,7 +83,7 @@ ul,ol {
     background-color: #404BBF;
 }
 
-.first-section-heading {
+.second-section-heading {
 color: #2E2F42;
 font-size: 20px;
 font-weight: 500;
@@ -91,13 +91,48 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 }
 
-.first-section-paragraph {
+.second-section-paragraph {
 color:#434455;
 font-size: 16px;
 font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
+
+.third-section {
+    background-color: #F4F4FD;
+}
+
+.third-section-main-heading {
+    color: #2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+}
+
+.third-section-heading {
+   color:#2E2F42;
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 1,2;
+   letter-spacing: 0.02em;
+}
+.third-section-paragraph {
+    color:#434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+
+
+
+
+
+
+
 
 
 
